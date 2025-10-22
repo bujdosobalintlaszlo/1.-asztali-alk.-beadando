@@ -1,5 +1,5 @@
-#Western project
-#Goal of the project:
+# Western project
+# Goal of the project:
 The task states the we need to have a 25x25 sized map.
 There are 6 field types:
 Ground - Green, it is a regular field with no special trait.
